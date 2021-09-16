@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background: purple;
+  margin: 0;
+  padding: 0;
+  font-family:'Papyrus';
+  font-weight: bold;
+  background-image: url('https://i.imgur.com/KwWAEfD.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+ul {
+  font-weight: bold;
+  width: 200px;
+  margin: auto;
+}
+
+li {
+  display: block;
+  margin-bottom: 20px;
+  font-weight: bold;
+  width: 200px;
+  border-bottom: 2px solid white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color:black;
+}
+
+button {
+  font-weight: bold;
+  font-family: 'Papyrus';
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background-color:gold;
+}
+
+div{
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  border: 3px;
+  border-color: gold;
+  border-style: solid;
+  padding: 1em;
+}
